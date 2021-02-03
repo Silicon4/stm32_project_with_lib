@@ -1,0 +1,3 @@
+[submodule "Core/multi_mcu_lib"]
+	path = Core/multi_mcu_lib
+	url = https://github.com/Silicon4/multi_mcu_lib
