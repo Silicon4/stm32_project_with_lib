@@ -2,5 +2,5 @@
 #include "commen_config.h"
 #include "keypad_config.h"
 
-void my_mian(void);
+void my_main(void);
 
