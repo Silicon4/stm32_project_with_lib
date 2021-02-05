@@ -13,6 +13,8 @@
         "bmp.h": "c",
         "keypad_config.h": "c",
         "string.h": "c",
-        "oledfont.h": "c"
+        "oledfont.h": "c",
+        "drv_spi.h": "c",
+        "spi_config.h": "c"
     }
 }
