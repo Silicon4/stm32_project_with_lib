@@ -8,6 +8,11 @@
         "i2c_config.h": "c",
         "oled_config.h": "c",
         "oled.h": "c",
-        "drv_i2c.h": "c"
+        "drv_i2c.h": "c",
+        "my_main.h": "c",
+        "bmp.h": "c",
+        "keypad_config.h": "c",
+        "string.h": "c",
+        "oledfont.h": "c"
     }
 }
