@@ -15,6 +15,8 @@
         "string.h": "c",
         "oledfont.h": "c",
         "drv_spi.h": "c",
-        "spi_config.h": "c"
+        "spi_config.h": "c",
+        "uart_config.h": "c",
+        "i2c.h": "c"
     }
 }

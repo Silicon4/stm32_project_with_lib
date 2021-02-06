@@ -63,6 +63,8 @@ Core/multi_mcu_lib/src/my_libs/drivers/drv_i2c/mcu_config/i2c_stm32f1_hal.c \
 Core/multi_mcu_lib/src/my_libs/drivers/drv_i2c/drv_i2c.c \
 Core/multi_mcu_lib/src/my_libs/drivers/drv_spi/mcu_config/spi_stm32f1_hal.c \
 Core/multi_mcu_lib/src/my_libs/drivers/drv_spi/drv_spi.c \
+Core/multi_mcu_lib/src/my_libs/drivers/drv_uart/mcu_config/uart_stm32f1_hal.c \
+Core/multi_mcu_lib/src/my_libs/drivers/drv_uart/drv_uart.c \
 Core/multi_mcu_lib/src/my_libs/hardware/input/keypad/mcu_config/keypad_stm32f1_hal.c \
 Core/multi_mcu_lib/src/my_libs/hardware/input/keypad/keypad.c \
 Core/multi_mcu_lib/src/my_libs/hardware/output/oled/mcu_config/oled_stm32f1_hal.c \
@@ -141,6 +143,8 @@ C_INCLUDES =  \
 -ICore/multi_mcu_lib/src/my_libs/drivers/drv_i2c \
 -ICore/multi_mcu_lib/src/my_libs/drivers/drv_spi/mcu_config \
 -ICore/multi_mcu_lib/src/my_libs/drivers/drv_spi \
+-ICore/multi_mcu_lib/src/my_libs/drivers/drv_uart/mcu_config \
+-ICore/multi_mcu_lib/src/my_libs/drivers/drv_uart \
 -ICore/multi_mcu_lib/src/my_libs/hardware/input/keypad/mcu_config \
 -ICore/multi_mcu_lib/src/my_libs/hardware/input/keypad \
 -ICore/multi_mcu_lib/src/my_libs/hardware/output/oled/mcu_config \
